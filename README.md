@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## ALLAN-MD 👨‍💻 🇰🇪 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -9,8 +9,8 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://telegra.ph/file/83fb40924978faacdd66a.png
+    <img alt="allan-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
     
   
   </a>
@@ -67,19 +67,19 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/5_3enq)
 <br>
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH-MD&template=https://github.com/PrabathLK/PRABATH-MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/AllanGeorge20/PRABATH-MD&template=https://github.com/AllanGeorge20/PRABATH-MD.git)
 
 <br>
 
 
-[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white)](https://github.com/prabathLK/PRABATH-MD/fork)
+[![FORK PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white)](https://github.com/AllanGeorge20/PRABATH-MD/fork)
 
  ---
 
 
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-# PRABATH-MD Bot Commands
+# ALLAN-MD Bot Commands
 
 This is a list of commands supported by the Prabath-Md bot. The commands are organized in a table with the following structure:
 
@@ -240,18 +240,18 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`ALLAN-MD BOT OWNERS,`** 👑
 
 
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/AllanGeorge20/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+|**[`Allan George `](https://github.com/AllanGeorge20)**|
 
 ---
 
 <a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
+|**[`Allan George `](https://github.com/SACHIBOT)**|
 
 ---
 
